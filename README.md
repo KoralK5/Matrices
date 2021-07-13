@@ -1,2 +1,2 @@
 # Matrices
-Practicing classes
+Practicing classes and linear algebra
